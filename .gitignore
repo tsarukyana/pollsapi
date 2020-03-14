@@ -2,4 +2,4 @@ bin/
 lib/
 pyvenv.cfg
 .idea/
-pollsapi/pollsapi/__pycache__/
+**/__pycache__/
